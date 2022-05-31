@@ -1,9 +1,11 @@
 # Eng113Practice
+
 #### Hello
 
 `//お前はもう死んでいる`
 
-=======
+ㅋㅋㅋㅋ - Tuan
+
 ```csharp
 Console.WriteLine("Hello World");
 ```
@@ -26,5 +28,3 @@ edited by xavier part 2
 Is there an echo in here?
 
 ![git push meme](https://memegenerator.net/img/instances/56321496.jpg)
-
-
