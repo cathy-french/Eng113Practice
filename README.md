@@ -1,12 +1,20 @@
 # Eng113Practice
 <<<<<<< HEAD
+<<<<<<< HEAD
 #### Hello
 
 =======
+=======
+
+#### Hello
+
+### Elliott made a change.
+>>>>>>> 66cd1b528154fd01013b37a6bc28c2af89549f43
 
 `//お前はもう死んでいる`
 
-=======
+ㅋㅋㅋㅋ - Tuan
+
 ```csharp
 Console.WriteLine("Hello World");
 ```
@@ -42,4 +50,12 @@ Is there an echo in here?
 >>>>>>> d1d013d17ca612a925b0f7515b064c68f8544aaf
 
 
+<<<<<<< HEAD
 **Josh** would like to do better in the weekly tests. He should study a bit more!
+=======
+| Table | 
+| ----- |
+|       |  
+|       | 
+
+>>>>>>> 66cd1b528154fd01013b37a6bc28c2af89549f43
